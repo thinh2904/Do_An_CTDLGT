@@ -1,3 +1,4 @@
+#Là một cấu trúc dữ liệu dùng để lưu giữ các đối tượng theo cơ chế vào trước ra trước
 install.packages('dequer')
 
 library(dequer)
