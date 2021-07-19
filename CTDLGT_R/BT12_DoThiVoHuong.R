@@ -1,3 +1,4 @@
+#Là đồ thị mà các cạnh của nó không có hướng, mỗi cạnh là một quan hệ hai chiều và mỗi cạnh có thể duyệt qua hai hướng
 install.packages('igraph')
 library(igraph)
 help(graph)
