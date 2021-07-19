@@ -1,3 +1,5 @@
+#Là một thuật toán chia để trị, thuật toán này chia mảng cần sắp xếp thành 2 nửa. Tiếp tục lặp lại việc này ở các nửa mảng đã chia.
+#Sau cùng gộp các nửa đó thành mảng đã sắp xếp.
 # ý tưởng:
 # 1. Tìm chỉ số nằm giữa mảng để chia mảng thành 2 nửa:
 # 2. Gọi đệ quy hàm mergeSort cho nửa đầu tiên:   
