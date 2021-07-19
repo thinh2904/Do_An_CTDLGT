@@ -1,3 +1,4 @@
+#Là thuật toán tìm phần tử nhỏ nhất đổi với phần tử đầu đoạn chưa được sắp xếp(không phải đầu mảng)
 vec <- c(32,15,-15,9,7,125)
 vec
 # Ý tưởng:
