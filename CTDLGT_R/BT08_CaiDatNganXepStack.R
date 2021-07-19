@@ -1,3 +1,4 @@
+#Là một cấu trúc dữ liệu dùng để lưu giữ các đối tượng Theo quy tắc vào sau ra trước
 install.packages('dequer')
 library(dequer)
 s <- stack()
