@@ -1,3 +1,4 @@
+#Là thuật toán sắp xếp kiểu phân chia bằng cách phân chia mảng dữ liệu thành các nhóm phần tử nhỏ hơn.
 # Ý tưởng:
 # Bước 1: Lấy phần tử chốt là phần tử ở cuối danh sách.
 # Bước 2: Chia mảng theo phần tử chốt.
