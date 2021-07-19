@@ -1,9 +1,8 @@
+#Là tạo một cái cây từ dữ liệu đầu sau đó chuyển số to nhất lên gốc rồi tiếp tục cho đến khi dãy đã được sắp xếp
 # 1. Xây dựng một heap tối đa từ dữ liệu đầu vào.
-
 # 2. Tại thời điểm này, mục lớn nhất được lưu trữ ở gốc của heap. 
 # Thay thế nó bằng mục cuối cùng của heap, sau đó giảm kích thước của heap đi 1.
 # Cuối cùng, ta có một gốc heap.
-
 # 3. Lặp lại bước 2 trong khi kích thước của heap lớn hơn 1.
 
 
