@@ -1,3 +1,4 @@
+#Là thuật toán lặp lại công việc đổi chỗ 2 số liên tiếp nhau nếu chúng đứng sai thứ tự(số sau bé hơn số trước với trường hợp sắp xếp tăng dần) cho đến khi dãy số được sắp xếp.
 # Ý tưởng:
 # lặp lại công việc đổi chỗ 2 số liên tiếp nhau nếu chúng đứng
 # sai thứ tự(số sau bé hơn số trước với trường hợp sắp xếp tăng dần)
