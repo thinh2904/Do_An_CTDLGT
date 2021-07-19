@@ -1,3 +1,4 @@
+#Là thuật toán sắp xếp phần tử vào đúng vị trí trong mảng con đứng trước nó cho đến khi độ dài của mảng con chính bằng mảng đã cho.
 # ý tưởng:
 # tạo mãng con đã sắp xếp là phần tử đầu tiên của list cần sắp xếp
 # duyệt từng phần tử thứ 2,3,4... khi duyệt xong từng phần tử
