@@ -1,3 +1,4 @@
+#Đầu tiên, chúng ta duyệt cây con bên trái, sau đó sẽ duyệt cây con bên phải và cuối cùng là duyệt nút gốc
 install.packages('data.tree')
 library(data.tree)
 
